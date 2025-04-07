@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 146e63ba095fb0143afbf56d61a60372, type: 3}
+  m_Name: StateBossWander
+  m_EditorClassIdentifier: 
+  Actions:
+  - {fileID: 11400000, guid: c1c095483f1096a4abd2ceaffc7c9f9d, type: 2}
+  Transitions:
+  - Decision: {fileID: 11400000, guid: 8e23fda481109354e8537f2cead9ae4a, type: 2}
+    TrueState: {fileID: 11400000, guid: 1fd9e33468715bc4982d4a87305d0b92, type: 2}
+    FalseState: {fileID: 11400000, guid: 267ac2216c470734493c7c3f30e82794, type: 2}

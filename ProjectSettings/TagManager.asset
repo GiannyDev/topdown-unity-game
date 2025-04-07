@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Test
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Map
+  - LevelComponents
+  - Player
+  - Enemy
+  - EnemyProjectile
+  - PlayerProjectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 2271510301
+    locked: 0
+  - name: LevelComponents
+    uniqueID: 210740695
+    locked: 0
+  - name: Collectable
+    uniqueID: 2354679919
+    locked: 0
+  - name: NPC
+    uniqueID: 3664799383
+    locked: 0
+  - name: Player
+    uniqueID: 2242417117
+    locked: 0
+  - name: Enemy
+    uniqueID: 1939028663
+    locked: 0
+  - name: Projectile
+    uniqueID: 1179372569
+    locked: 0
+  - name: Weapon
+    uniqueID: 519895605
+    locked: 0
+  - name: TOP
+    uniqueID: 1071623373
+    locked: 0
